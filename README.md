@@ -57,7 +57,7 @@ A [video tutorial](https://www.bilibili.com/video/BV1qF41167Sx) for building thi
 + In the inverse kinematics page, the solution may be wrong when it exceeds the allowed tilt range like:
   <!-- ![ik_issue](media/ik-issue.gif) -->
 
-  <img src="https://github.com/XuelongSun/HexapodRobotSimulation/blob/main/media/ik-issue.gif" width=30%>
+  <img src="https://github.com/XuelongSun/HexapodRobotSimulation/blob/main/media/ik-issue.gif" width=50%>
   
   Currently I have yet got an efficient way to address this issue, do you have any good ideas? 
 + Only Tripod gait has been implemented. Other gait will be realized in the [Webots project](): a simulated hexapod robot with physics engine.
